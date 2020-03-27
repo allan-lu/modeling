@@ -1,5 +1,5 @@
 ---
-title: "Homework 7"
+title: "Hogwarts Swimming"
 author: "Allan Lu"
 date: "March 27, 2020"
 output:
